@@ -160,7 +160,7 @@
 				}
 			}
 
-			@media (max-width: 1200px) {
+			@media (max-width: 1020px) {
 				justify-content: flex-start;
 
 				button {
