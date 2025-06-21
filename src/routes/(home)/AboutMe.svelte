@@ -39,7 +39,7 @@
 	bind:this={sectionEl}
 	id="about-me"
 	style="opacity: {sectionAnimationPercent};
-	transform: translateY(calc(-50px * {sectionAnimationPercent}))
+	transform: translateY(calc(-20px * {sectionAnimationPercent}))
 "
 >
 	<section id="intro">
@@ -48,13 +48,16 @@
 			<span class="highlighted">James Huang</span>.
 		</h2>
 		<p>
-			I’m a self-taught creative designer based in Sydney. Over the years, I’ve worked on projects with startups, non-profits, local businesses, and creators, as well as a few personal ones just for fun as a hobby.<br />
+			I’m a self-taught creative designer based in Sydney. Over the years, I’ve worked on projects
+			with startups, non-profits, local businesses, and creators, as well as a few personal ones
+			just for fun as a hobby.<br />
 			<br />
-			I spend a lot of my time exploring design—whether it’s UI, print, web, motion, and even art and photography—because I love how it shapes experiences and tells stories.  <br />
+			I spend a lot of my time exploring design—whether it’s UI, print, web, motion, and even art and
+			photography—because I love how it shapes experiences and tells stories. <br />
 			<br />
-			I'm currently a 16-year-old high school student primarily occupied with academic commitments, though in my
-			spare time you'll find me reading, working on a project, or taking a walk around national parks
-			and the city.<br />
+			I'm currently a 16-year-old high school student primarily occupied with academic commitments, though
+			in my spare time you'll find me reading, working on a project, or taking a walk around national
+			parks and the city.<br />
 			<br />
 		</p>
 	</section>
