@@ -139,6 +139,10 @@
 		#header-contents {
 			padding-top: 12rem;
 
+			@media (max-width: 800px) {
+				padding-top: 0;
+			}
+
 			#top-part {
 				display: flex;
 				flex-direction: column;
