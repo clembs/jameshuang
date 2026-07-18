@@ -55,7 +55,7 @@
 			I spend a lot of my time exploring design—whether it’s UI, print, web, motion, and even art and
 			photography—because I love how it shapes experiences and tells stories. <br />
 			<br />
-			I'm currently a 16-year-old high school student primarily occupied with academic commitments, though
+			I'm currently an 18-year-old high school student primarily occupied with academic commitments, though
 			in my spare time you'll find me reading, working on a project, or taking a walk around national
 			parks and the city.<br />
 			<br />
